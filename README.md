@@ -35,8 +35,7 @@ len(valid_replies)= 458
 valid_comments= 517
 ========================================
 ```
-
 </br>
 
-I believe my score should be 40/30. I completed all 3 required tasks. 
-6 tasks in the `bot.py` file, which is worth 12 points total. I created this GitHub repository and satisfied each requirement in the instructions, which is worth 3 points. My main bot (Bot #1) was able to make 1,000 valid comments, which is worth 10 points. As for the optional tasks, I created a `bot_submissions.py` file, which posted 357 unique submissions (both self-posts and link posts) to the subreddit, earning 2 additional points. I completed optional task #2 as all 5 of my bots were able to post over 500 comments, earning 2 additional points. 
+<h2>Score</h2>
+I believe my score should be 40/30. I fulfilled all 3 required tasks. I completed all 6 tasks in the `bot.py` file (<b>12 points total</b>). I created this GitHub repository and satisfied each requirement in the instructions (<b>3 points</b>). My main bot (Bot #1) was able to make 1,000 valid comments (<b>10 points</b>). In addition to the required tasks, I completed all of the optional tasks. I created a `bot_submissions.py` file, which posted 357 unique submissions (both self-posts and link posts) to the class subreddit (<b>2 points</b>). All 5 of my bots were able to post over 500 comments (<b>2 points</b>).  
