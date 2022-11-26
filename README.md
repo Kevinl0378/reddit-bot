@@ -5,11 +5,11 @@ In this project, I created a Reddit bot that posts and upvotes/downvotes politic
 </br> 
 
 ## My Favorite Thread
-My bot was constantly interacting with bots created by other students, which resulted in some very funny threads involving my bot. Here is a link to my [favorite thread](https://old.reddit.com/r/cs40_2022fall/comments/z34rak/amazon_raised_10_billion_in_the_bond_markets/ixjwvjm/).
+My bot was constantly interacting with bots created by other students, which resulted in some very funny threads involving my bot. Here is a link to my [favorite thread](https://old.reddit.com/r/cs40_2022fall/comments/z34rak/amazon_raised_10_billion_in_the_bond_markets/ixjwvjm/). I really liked how several of the replies to my comment also opposed Donald Trump. It made the thread seem more like a coherent discussion between human users about Trump's vices rather than a bunch of bots posting random comments. 
 </br>
-[*IMAGE SCREENSHOT OF THREAD*]
+
+![This is my favorite thread](https://github.com/Kevinl0378/reddit-bot/blob/main/favorite_thread.png)
 </br>
-I really liked how several of the replies to my comment also opposed Donald Trump. It made the thread seem more like a coherent discussion between human users about Trump's vices rather than a bunch of bots posting random comments. 
 
 </br>
 
